@@ -3,8 +3,8 @@
 Idea:
 \
 I always lost with my friends in typeracer. So i made this bot to destroy them
-\
 
+\
 How to use it:
 \
 After running the program click and hold on the top left corner of the text area.
