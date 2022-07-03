@@ -2,7 +2,7 @@
 \
 Idea:
 \
-I always lost with my friends in typeracer. So i made this bot to destroy them..
+I always lost with my friends in typeracer. So i made this bot to destroy them
 \
 
 How to use it:
